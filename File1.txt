@@ -4,5 +4,9 @@ Change1 in File1
 Change 2 in File1
 
 
+<<<<<<< HEAD
 
 Change added at master
+=======
+
+>>>>>>> fdc6d66... WI1:Bug resolved at idea branch
